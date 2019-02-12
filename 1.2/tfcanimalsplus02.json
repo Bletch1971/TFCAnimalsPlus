@@ -1,0 +1,19 @@
+{
+    "versionList": [
+        {
+            "mcVersion":"Minecraft 1.7.10",
+            "tfcVersion":"0.79.18",
+            "animalsPlusVersion":"1.2",
+            "modVersion":"1.2.2",
+            "changeLog": [
+                "(Bugfix) fixed biome name check.",
+                "(Change) added console printout of entity registered.",
+                "(Change) reset the option values to 1,1,1.",
+                "(Change) changed all creature type to ambient."
+            ],
+            "updateURL":"https://db.tt/EAIlRs0l",
+            "isDirectLink":"true",
+            "newFileName":"[1.7.10]TFCAnimalsPlus-1.2.02.jar"
+        }
+    ]
+}

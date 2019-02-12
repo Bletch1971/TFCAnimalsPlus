@@ -1,0 +1,16 @@
+{
+    "versionList": [
+        {
+            "mcVersion":"Minecraft 1.7.10",
+            "tfcVersion":"0.79.18",
+            "animalsPlusVersion":"1.2",
+            "modVersion":"1.2.3",
+            "changeLog": [
+                "(Bugfix) added biome list check which caused a load exception."
+            ],
+            "updateURL":"https://db.tt/zoErLfux",
+            "isDirectLink":"true",
+            "newFileName":"[1.7.10]TFCAnimalsPlus-1.2.03.jar"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "versionList": [
+        {
+            "mcVersion":"Minecraft 1.7.10",
+            "tfcVersion":"0.79.18",
+            "animalsPlusVersion":"1.2",
+            "modVersion":"1.2.1",
+            "changeLog": [
+                "(New) Initial release for Animals+ 1.2 for Minecraft 1.7.10 and TerraFirmaCraft 0.79.18."
+            ],
+            "updateURL":"https://db.tt/zZ5rSmvH",
+            "isDirectLink":"true",
+            "newFileName":"[1.7.10]TFCAnimalsPlus-1.2.01.jar"
+        }
+    ]
+}
