@@ -1,0 +1,10 @@
+\Q/runClient/\E.*
+\Q/.classpath\E
+\Q/.gitattributes\E
+\Q/.gitignore\E
+\Q/.project\E
+\Q/runServer/\E.*
+\Q/.gradle/\E.*
+\Q/.settings/\E.*
+\Q/build/\E.*
+\Q/libs/\E.*

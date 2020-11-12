@@ -1,0 +1,21 @@
+{
+    "modListVersion": 2,
+    "modList": [{
+        "modid": "tfcanimalsplus",
+        "name": "TFC Animals Plus",
+        "description": "§bThis mod adds the entities in the Animals Plus mod into TerraFirmaCraft §a${tfc_version}.§r",
+        "version": "${mod_version}",
+        "mcversion": "${minecraft_version}",
+        "url": "",
+        "updateUrl": "",
+        "authorList": ["§6Bletch§r"],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "parent": "",
+        "requiredMods": [  ],
+        "dependencies": [  ],
+        "dependants": [  ],
+        "useDependencyInformation": "true"
+    }]
+}
